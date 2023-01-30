@@ -1,6 +1,4 @@
-Landing page
-
-SMART MOVES
+Exe (Landing page)
 
 Сайт создан с применением:
 - Grid
