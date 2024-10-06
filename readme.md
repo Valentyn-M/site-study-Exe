@@ -1,7 +1,7 @@
 Exe (Landing page)
 
-Сайт создан с применением:
-- Grid
-- Flexbox
-- JS
-- jQuery
+The site was created using:
+Grid
+Flexbox
+JS
+jQuery
